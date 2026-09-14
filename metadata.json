@@ -1,0 +1,7 @@
+{
+  "name": "Pine Script Buy/Sell Alert System",
+  "description": "Real-time Buy & Sell alert engine for NIFTY, SENSEX, BANK NIFTY, GOLD, SILVER & CRUDE OIL with VWAP, S/R pivots, Option chain filters, and mobile & email notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
